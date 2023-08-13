@@ -1,0 +1,180 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 850px;
+  max-width: 1440px;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  background-color: #fff;
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 100px;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-weight: 800;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-weight: 800;
+  font-size: 31px;
+  text-transform: uppercase;
+}
+
+h4 {
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+h5 {
+  width: 350px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+a {
+  color: #000;
+}
+
+button {
+	text-transform: uppercase;
+	border: solid #FFF;
+	background-color: rgba(0, 0, 0, 0);
+	color: rgb(255, 255, 255);
+	display: grid;
+	justify-content: flex-end;
+	align-items: flex-end;
+}
+
+.contact-information {
+	 margin-bottom: 0px;
+	 margin-top: 0px;
+ }
+.header {
+  padding-left;
+  display: flex;
+  margin: auto;
+  width: 1340px;
+  height: 109px;
+}
+
+.header-menu {
+	margin-top: auto;
+	margin-bottom: auto;
+}
+.header-image {
+	margin: auto;
+	width: 148px;
+	height: 105px;
+}
+.image-about {
+	width: 240px;
+	height: 240px;
+	background-color: #000;
+}
+.header-info-auction {
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.footer {
+  display: flex;
+  margin: auto;
+  width: 1340px;
+  height: 97px
+}
+
+.footer-menu {
+	flex-direction: column;
+	margin: auto;
+}
+
+.footer-info-auction {
+	
+}
+
+.cover {
+	display: flex;
+	background-image: url("C:/Users/User/dev/project/Image/cover.jpg");
+	background-size: cover;
+	width: 1440px;
+	height: 760px;
+}
+
+.title {
+  display: grid;
+  grid-template-columns: 466px 466px 466px;
+  grid-template-rows: 118px 118px 118px;
+  margin: auto auto auto 0;
+}
+
+.sublin {
+	display: grid;
+	padding-top: 170px;
+	justify-content: center;
+	align-items: flex-end;
+}
+.lots {
+	display: flex;
+	width: 1340px;
+	height: 460px;
+	column-gap: 25px;
+}
+.card {
+	width: 430px;
+	height: 450px;
+	background-color: rgba(00, 00, 00, 0.5);
+}
+.card1 {
+	background-image: url("C:/Users/User/dev/project/Image/card-lot-01.jpg");
+	background-size: cover;
+}
+
+.card2 {
+	background-image: url("C:/Users/User/dev/project/Image/card-lot-02.jpg");
+	background-size: cover;
+}
+
+.card3 {
+	background-image: url("C:/Users/User/dev/project/Image/card-lot-03.jpg");
+	background-size: cover;
+}
+.text {
+	width: 350px;
+	color: #FFF;
+	margin-right: auto;
+	margin-left: auto;
+	display: grid;
+	align-items: flex-end;
+}
+
+.lots-sup {
+	margin-left: 12px;
+}
+.text-title {
+	width: 350px;
+	text-decoration: underline;
+	color: #FFF;
+	margin-right: auto;
+	margin-left: auto;
+	display: grid;
+	align-items: end;
+}
+.about {
+	display: flex;
+	width: 1340px;
+	height: 487px;
+}
+.about-text {
+	width: 885px;
+}
+.social-media {
+	display: flex;
+}
