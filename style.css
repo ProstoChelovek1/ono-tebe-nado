@@ -51,6 +51,11 @@ p {
 	 font-size: 18px;
  }
 
+ .title-cover {
+	font-weight: 800;
+	font-size: 100px;
+	text-transform: uppercase;
+ }
 .contact-information {
 	 margin-bottom: 0px;
 	 margin-top: 0px;
@@ -103,6 +108,10 @@ p {
 	margin: auto;
 }
 
+.footer-menu-ul {
+	display: grid;
+}
+
 .footer-info-auction {
 	margin-top: auto;
 	margin-bottom: auto;
@@ -144,6 +153,7 @@ social-media-image {
 }
 
 .menu-link-main {
+	text-decoration: none;
 	font-size: 18px;
 	margin-bottom: 2px;
 	margin-top: 0px;
