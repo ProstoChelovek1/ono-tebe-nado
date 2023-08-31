@@ -145,7 +145,7 @@ p {
 
 .main {
 	padding-top: 75px;
-	padding-bottom: 55px;
+	padding-bottom: 180px;
 	padding-left: 35px;
 }
 .cover {
@@ -217,9 +217,9 @@ p {
 	align-items: flex-end;
 }
 
-.lots-selction {
+.lots-section {
 	padding-bottom: 25px;
-	padding-left: 35px;
+	padding-left: 7%;
 }
 
 .lots {
@@ -312,8 +312,7 @@ p {
 }
 
 .about-text {
-	gap: 34px;
-	padding-bottom: 34px;
+	padding-bottom: 25px;
 }
 
 .image-about {
