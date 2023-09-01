@@ -4,6 +4,7 @@
 
 body {
   min-width: 1100px;
+  max-width: 1440px;
   margin: 0;
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
@@ -62,7 +63,7 @@ p {
 .header {
   display: flex;
   margin: auto;
-  padding-left: 55px;
+  padding-left: 50px;
 }
 .menu {
 	display: flex;
@@ -88,7 +89,7 @@ p {
 
 .footer {
   display: flex;
-  padding-left: 35px;
+  padding-left: 50px;
   width: 100%;
 }
 
@@ -146,7 +147,6 @@ p {
 .main {
 	padding-top: 75px;
 	padding-bottom: 180px;
-	padding-left: 35px;
 }
 .cover {
 	background: 
@@ -174,7 +174,6 @@ p {
 
  .title-cover-end {
 	text-align: end;
-	padding-top: 20px;
 	margin-right: 50px;
  }
 .cover-under {
@@ -219,7 +218,7 @@ p {
 
 .lots-section {
 	padding-bottom: 25px;
-	padding-left: 7%;
+	padding-left: 50px;
 }
 
 .lots {
@@ -299,7 +298,7 @@ p {
 .about {
 	display: flex;
 	padding-top: 95px;
-	padding-left: 95px;
+	padding-left: 50px;
 }
 
 .about-sup {
@@ -334,4 +333,6 @@ p {
 	padding-right: 180px;
 	border-radius: 50%;
 	display: flex;
+	margin-left: 95px;
+	margin-right: 95px;
 }
