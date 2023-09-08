@@ -35,6 +35,7 @@ a {
 }
 
 .contact-information {
+	display: block;
 	 margin-bottom: 0px;
 	 margin-top: 0px;
 	 text-decoration: underline;
@@ -43,6 +44,7 @@ a {
  }
 
  .address {
+	 display: block;
 	 font-style: normal;
 	 margin-bottom: 0px;
 	 margin-top: 0px;
@@ -76,6 +78,7 @@ a {
 }
 
 .header-image {
+	display: block;
 	width: 134px;
 	height: 105px;
 	background-image: url(../Image/logo-black.svg);
@@ -334,11 +337,7 @@ a {
 	background-size: cover;
 	width: 148px;
 	height: 114px;
-}
-
-.image-about-sup {
-	width: 148px;
-	height: 114px;
+	display: block;
 	margin: auto;
 	margin-left: 75%;
 }
