@@ -240,7 +240,7 @@ a {
 
 .lots {
 	display: flex;
-	margin-bottom: 8px;
+	margin-bottom: 7px;
 	flex-wrap: wrap;
 }
 
@@ -299,7 +299,7 @@ a {
 .card-link {
 	text-decoration: underline;
 	font-size: 18px;
-	margin-left: 50px;
+	margin-left: 60px;
 }
 
 .about {
