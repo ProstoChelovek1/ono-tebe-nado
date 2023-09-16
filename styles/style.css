@@ -95,7 +95,7 @@ a {
 
 .footer-menu-sup {
 	margin-left: auto;
-	margin-right: 17%
+	margin-right: auto;
 }
 .footer-menu-ul {
 	display: grid;
@@ -176,26 +176,26 @@ a {
   padding-right: 50px;
 }
 .title-cover-start {
-	letter-spacing: 40px;
+	letter-spacing: 35px;
 	display: block;
  }
 .title-cover {
 	text-align: center;
-	letter-spacing: 40px;
+	letter-spacing: 35px;
 	display: block;
 }
 .title-cover-end {
 	text-align: end;
-	letter-spacing: 40px;
+	letter-spacing: 35px;
 	display: block;
 }
 .title-cover-extra-spacing {
-	letter-spacing: 80px;
+	letter-spacing: 72px;
 }
 
 .cover-under {
 	display: flex;
-	padding-top: 135px;
+	padding-top: 138px;
 	padding-bottom: 50px;
 	padding-right: 48px;
 }
@@ -283,25 +283,27 @@ a {
 	color: #FFF;
 	display: grid;
 	align-items: end;
-	margin-left: 10px;
+	margin-left: 40px;
+	margin-right: 40px;
 	padding-top: 49px;
 }
 
 .lots-title {
-	margin-left: 62px;
+	margin-left: 86px;
 	padding-top: 180px;
-	margin-bottom: 27px;
+	margin-bottom: 33px;
+	margin-right: 24px;
 }
 
 .card-link {
 	text-decoration: underline;
 	font-size: 18px;
-	margin-left: 60px;
+	margin-left: 66px;
 }
 
 .about {
 	display: flex;
-	padding-top: 150px;
+	padding-top: 164px;
 	padding-left: 50px;
 	padding-right: 50px;
 }
