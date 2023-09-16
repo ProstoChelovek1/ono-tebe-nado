@@ -139,7 +139,6 @@ a {
 }
 
 .menu-link-main {
-	text-decoration: none;
 	font-size: 18px;
 	margin-bottom: 2px;
 	margin-top: 0px;
@@ -152,7 +151,7 @@ a {
 	text-align: center;
 }
 
-.lots-section{
+.lots-section {
 	list-style-type: none;
 	padding-bottom: 25px;
 	padding-left: 25px;
@@ -285,7 +284,7 @@ a {
 	display: grid;
 	align-items: end;
 	margin-left: 10px;
-	padding-top: 49px; 
+	padding-top: 49px;
 }
 
 .lots-title {
