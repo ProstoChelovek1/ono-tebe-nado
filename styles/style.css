@@ -37,7 +37,7 @@ a {
 
 .contact-information {
 	display: block;
-	margin-bottom: 0px;
+	margin-bottom: 4px;
 	margin-top: 0px;
 	text-decoration: underline;
 	font-size: 18px;
@@ -99,7 +99,6 @@ a {
 }
 .footer-menu-ul {
 	display: grid;
-	
 }
 
 .footer-info-auction {
@@ -176,21 +175,21 @@ a {
   padding-right: 50px;
 }
 .title-cover-start {
-	letter-spacing: 35px;
+	letter-spacing: 31px;
 	display: block;
  }
 .title-cover {
 	text-align: center;
-	letter-spacing: 35px;
+	letter-spacing: 31px;
 	display: block;
 }
 .title-cover-end {
 	text-align: end;
-	letter-spacing: 35px;
+	letter-spacing: 31px;
 	display: block;
 }
 .title-cover-extra-spacing {
-	letter-spacing: 72px;
+	letter-spacing: 51px;
 }
 
 .cover-under {
@@ -237,7 +236,7 @@ a {
 
 .lots {
 	display: flex;
-	margin-bottom: 7px;
+	margin-bottom: 6px;
 	flex-wrap: wrap;
 }
 
@@ -272,11 +271,12 @@ a {
 
 .text {
 	color: #FFF;
-	padding-left: 15px;
+	padding-left: 37px;
 	text-decoration: none;
 	margin-bottom: 49px;
 	margin-top: auto;
 	font-size: 20px;
+	margin-right: 35px;
 }
 .text-title {
 	text-decoration: underline;
@@ -284,13 +284,13 @@ a {
 	display: grid;
 	align-items: end;
 	margin-left: 40px;
-	margin-right: 40px;
+	margin-right: 35px;
 	padding-top: 49px;
 }
 
 .lots-title {
-	margin-left: 86px;
-	padding-top: 180px;
+	margin-left: 62px;
+	padding-top: 186px;
 	margin-bottom: 33px;
 	margin-right: 24px;
 }
@@ -298,12 +298,12 @@ a {
 .card-link {
 	text-decoration: underline;
 	font-size: 18px;
-	margin-left: 66px;
+	margin-left: 65px;
 }
 
 .about {
 	display: flex;
-	padding-top: 164px;
+	padding-top: 150px;
 	padding-left: 50px;
 	padding-right: 50px;
 }
