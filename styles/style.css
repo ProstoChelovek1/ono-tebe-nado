@@ -57,8 +57,8 @@ a {
   display: flex;
   margin: auto;
   padding-left: 50px;
-  padding-top: 92px;
-  padding-bottom: 72px;
+  padding-top: 76px;
+  padding-bottom: 115px;
   padding-right: 50px;
 }
 .header-menu {
@@ -89,7 +89,7 @@ a {
 .footer {
   display: flex;
   padding-left: 50px;
-  padding-bottom: 100px;
+  padding-bottom: 96px;
   padding-right: 50px;
   width: 100%;
 }
@@ -182,19 +182,19 @@ a {
  }
 .title-cover {
 	text-align: center;
-	letter-spacing: 31px;
+	letter-spacing: 32px;
 	display: block;
-	margin-top: 10px;
-	margin-right: 20px;
+	margin-top: 9px;
+	margin-right: 29px;
 }
 .title-cover-end {
 	text-align: end;
 	letter-spacing: 31px;
 	display: block;
-	margin-top: 10px;
+	margin-top: 5px;
 }
 .title-cover-extra-spacing {
-	letter-spacing: 53px;
+	letter-spacing: 57px;
 }
 .title-cover-none {
 	letter-spacing: 0px;
