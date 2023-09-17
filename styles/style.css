@@ -42,6 +42,7 @@ a {
 	text-decoration: underline;
 	font-size: 18px;
 	font-style: normal;
+	text-underline-offset: auto;
  }
 
  .address {
@@ -73,7 +74,7 @@ a {
 	background-size: cover;
 	background-repeat: no-repeat;
 	margin-right: auto;
-	margin-left: 15%;
+	margin-left: 15.5%;
 }
 .header-info-auction {
 	margin-top: auto;
@@ -82,13 +83,13 @@ a {
 
 .menu {
 	display: flex;
-	gap: 35px;
+	gap: 33px;
 }
 
 .footer {
   display: flex;
   padding-left: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 100px;
   padding-right: 50px;
   width: 100%;
 }
@@ -135,6 +136,7 @@ a {
 	margin-bottom: 2px;
 	margin-top: 0px;
 	list-style-type: circle;
+	text-underline-offset: auto;
 }
 
 .menu-link-main {
@@ -182,14 +184,20 @@ a {
 	text-align: center;
 	letter-spacing: 31px;
 	display: block;
+	margin-top: 10px;
+	margin-right: 20px;
 }
 .title-cover-end {
 	text-align: end;
 	letter-spacing: 31px;
 	display: block;
+	margin-top: 10px;
 }
 .title-cover-extra-spacing {
-	letter-spacing: 51px;
+	letter-spacing: 53px;
+}
+.title-cover-none {
+	letter-spacing: 0px;
 }
 
 .cover-under {
@@ -202,11 +210,11 @@ a {
 .cover-text {
 	color: #fff;
 	margin-left: auto;
-	word-spacing: 20px;
+	word-spacing: 18px;
 	text-transform: uppercase;
 	margin-top: auto;
 	margin-bottom: auto;
-	margin-right: 77px;
+	margin-right: 80px;
 	font-size: 22px;
 }
 
@@ -297,8 +305,9 @@ a {
 
 .card-link {
 	text-decoration: underline;
-	font-size: 18px;
+	font-size: 20px;
 	margin-left: 65px;
+	text-underline-offset: auto;
 }
 
 .about {
