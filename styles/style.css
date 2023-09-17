@@ -58,7 +58,7 @@ a {
   margin: auto;
   padding-left: 50px;
   padding-top: 76px;
-  padding-bottom: 95px;
+  padding-bottom: 91px;
   padding-right: 50px;
 }
 .header-menu {
@@ -202,9 +202,9 @@ a {
 
 .cover-under {
 	display: flex;
-	padding-top: 138px;
+	padding-top: 124px;
 	padding-bottom: 50px;
-	padding-right: 48px;
+	padding-right: 50px;
 }
 
 .cover-text {
