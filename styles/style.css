@@ -244,7 +244,7 @@ a {
 
 .lots {
 	display: flex;
-	margin-bottom: 6px;
+	margin-bottom: 5px;
 	flex-wrap: wrap;
 }
 
@@ -299,7 +299,7 @@ a {
 .lots-title {
 	margin-left: 62px;
 	padding-top: 186px;
-	margin-bottom: 33px;
+	margin-bottom: 24px;
 	margin-right: 24px;
 }
 
@@ -323,7 +323,7 @@ a {
 
 .about-title {
 	padding-top: 95px;
-	padding-bottom: 95px;
+	padding-bottom: 100px;
 }
 
 .about-text-div {
